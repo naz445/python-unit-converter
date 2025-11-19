@@ -47,6 +47,19 @@ Converts Celsius temperature into Fahrenheit.
 
 #### `kilogram_to_gram(value)`
 Converts kilograms into grams.
+
+---
+
+## Sample Output
+— Unit Converter —
+(1) Meter → Centimeter
+(2) Kilometer → Meter
+(3) Celsius → Fahrenheit
+(4) Kilogram → Gram
+(5) Exit
+Select option: 3
+Enter Celsius value: 22
+Result: 71.6 °F
 ---
 
 ## Future Improvements
@@ -62,6 +75,5 @@ Converts kilograms into grams.
 ## License
 
 This project is released under the MIT License.
----
-
+Enter Celsius value: 22
 ## Sample Output
